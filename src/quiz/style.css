@@ -1,0 +1,22 @@
+:root {
+    --cor-primaria: rgb(34, 187, 234);
+    --cor-texto: white;
+}
+
+* {
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box; 
+}
+
+body {
+    background-color: black;
+    font-family: 'Inter', sans-serif;
+    padding-top: 130px; 
+    text-align: center;
+    color: var(--cor-texto);
+    margin: 0;
+    box-sizing: border-box; 
+}
+
+/* seção do quiz */
